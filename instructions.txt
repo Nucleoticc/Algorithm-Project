@@ -1,0 +1,6 @@
+-> npm install to get all dependancies
+-> npm run start to serve to start the application in browser
+-> npm run electron:serve to start the application as desktop app
+
+-> The algorithms are in src\scripts\algorithms
+-> The Json Input are in public\InputFiles

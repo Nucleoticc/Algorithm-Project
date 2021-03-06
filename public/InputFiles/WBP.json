@@ -1,0 +1,38 @@
+{
+  "data": {
+    "data1": {
+      "dict": [
+        "this",
+        "th",
+        "is",
+        "famous",
+        "Word",
+        "break",
+        "b",
+        "r",
+        "e",
+        "a",
+        "k",
+        "br",
+        "bre",
+        "brea",
+        "ak",
+        "problem"
+      ],
+      "word": "Wordbreakproblem"
+    },
+    "data5": {
+      "dict": [
+        "saturday",
+        "is",
+        "arrow",
+        "fasd",
+        "fatty",
+        "abfsdf",
+        "lab",
+        "ace"
+      ],
+      "word": "saturdayisarrow"
+    }
+  }
+}
